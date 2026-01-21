@@ -10,5 +10,5 @@ a.push("Sepp");
 
 //Neuen Array Ausgeben
 console.log(
-  "Meine Freunde sind" + a[0] + "," + a[1] + "," + a[2] + " und " + a[3]
+  "Meine Freunde sind " + a[0] + "," + a[1] + "," + a[2] + " und " + a[3]
 );
