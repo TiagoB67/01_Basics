@@ -1,0 +1,17 @@
+body {
+  background-color: cadetblue;
+}
+div {
+  border: solid;
+  height: 100px;
+}
+.header {
+  background-color: red;
+  width: 200px;
+  position: relative;
+}
+.text {
+  background-color: purple;
+  border: black solid;
+  color: darkseagreen;
+}
