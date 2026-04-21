@@ -20,3 +20,22 @@
   justify-content: space-between;
   margin: 15px;
 }
+.icon {
+  width: 20px;
+  height: 20px;
+  filter: brightness(0) invert(1);
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.login span {
+  line-height: 1.1;
+}
