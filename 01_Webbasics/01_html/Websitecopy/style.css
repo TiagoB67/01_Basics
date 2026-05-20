@@ -64,4 +64,20 @@
   position: absolute;
   width: 100%;
   z-index: -1;
+  top: 0%;
+}
+.titel {
+  position: absolute;
+  color: white;
+  font-size: 5rem;
+}
+.introduction {
+  position: absolute;
+  color: white;
+  font-size: 1rem;
+}
+.minibox {
+  display: flex;
+  flex-direction: column;
+  padding: 60px;
 }
