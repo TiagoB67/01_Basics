@@ -1,0 +1,12 @@
+body {
+  background-color: cadetblue;
+  color: crimson;
+}
+h1 {
+  justify-self: center;
+}
+.box {
+  position: absolute;
+  justify-self: center;
+  background-color: bisque;
+}
